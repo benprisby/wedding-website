@@ -1346,6 +1346,8 @@ input, select, textarea {
 			padding-left: 0;
 			border: solid 1px #ffffff;
 			border-radius: 4px;
+			font-weight: 400;
+			background: rgba(0, 0, 0, 0.5);  /* Make translucent */
 		}
 
 			#header nav ul li {
