@@ -1032,17 +1032,3 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
-
-		.google-map {
-			padding-bottom: 50%;
-			position: relative;
-		}
-
-		.google-map iframe {
-			height: 100%;
-			width: 100%;
-			left: 0;
-			top: 0;
-			padding: 0 0 2rem 0;
-			position: absolute;
-		}
