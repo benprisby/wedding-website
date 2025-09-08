@@ -1,5 +1,10 @@
 # Wedding Website
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github&logoColor=white)](https://pages.github.com/)
+[![Deployment](https://github.com/benprisby/wedding-website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/benprisby/wedding-website/actions/workflows/pages/pages-build-deployment)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+
 Simple static website for my wedding reception celebration.
 
 ## 🌐 Live Site
